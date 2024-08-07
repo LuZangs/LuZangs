@@ -7,12 +7,12 @@
 <!-- Presentation -->
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Instagram](https://www.instagram.com/safe_fernando/?hl=en)
+[![LinkedIn](https://www.linkedin.com/in/luis-duarte-26b860277/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12162393515&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2cc926&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- Portfolio -->
 
 <!-- GIF -->
