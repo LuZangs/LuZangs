@@ -12,9 +12,9 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12162393515&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2cc926&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<!-- Portfolio -->
 
+<!-- Portfolio -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12162393515&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=2cc926&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
