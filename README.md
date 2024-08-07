@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-duarte-26b860277/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+[![Stats LuZangs](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/LuZangs/github-readme-stats)
 
 <!-- Portfolio -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12162393515&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=2cc926&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
